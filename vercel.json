@@ -1,8 +1,1 @@
-{
-  "functions": {
-    "api/messages.js": {
-      "maxDuration": 60,
-      "memory": 256
-    }
-  }
-}
+{}
